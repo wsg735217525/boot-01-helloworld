@@ -70,6 +70,9 @@ public class MainApplication {
         boolean user01 = run.containsBean("user01");
         System.out.println("容器中User组件"+user01);
 
+        System.out.println("版本2");
+
+
 
 
     }
