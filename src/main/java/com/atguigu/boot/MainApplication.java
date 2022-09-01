@@ -77,6 +77,8 @@ public class MainApplication {
 
         System.out.println("版本4");
 
+        System.out.println("2");
+
 
 
 
