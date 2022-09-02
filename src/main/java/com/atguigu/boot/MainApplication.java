@@ -82,6 +82,10 @@ public class MainApplication {
         System.out.println("1");
 
         System.out.println("push test");
+        
+        System.out.println("pull test");
+        
+        
 
 
     }
